@@ -31,7 +31,7 @@ Our core technologies include:
 - Smart Protection and Monitoring
 
 ### Embedded Systems
-- STM32 / TI MCU Firmware
+- Microchip / STM32 / TI MCU Firmware
 - Real-Time Monitoring and Control
 - CAN Communication Protocol
 - Safety and Diagnostic Logic
